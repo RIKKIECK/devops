@@ -1,6 +1,15 @@
 digraph {
   inicio -> paso1 -> paso2 -> fin
 }
+
+### Ejemplo de código
+
+A continuación se muestra un ejemplo de cómo imprimir "Hola, mundo" en lenguaje Python:
+
+```python
+print("Hola, mundo")
+
+
 # Mi Proyecto
 
 ¡Bienvenido a mi proyecto! Este es un breve resumen de lo que encontrarás aquí.
