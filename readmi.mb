@@ -1,6 +1,3 @@
-digraph {
-  inicio -> paso1 -> paso2 -> fin
-}
 # Mi Proyecto
 
 ¡Bienvenido a mi proyecto! Este es un breve resumen de lo que encontrarás aquí.
